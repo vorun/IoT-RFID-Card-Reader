@@ -11,4 +11,7 @@
 
  -Visitor count and users direction when a card has been read gets displayed in OLED screen
  
+ ![pin connections](https://user-images.githubusercontent.com/79105578/221886568-3077b26a-c138-4469-b5ea-d8fef21ad7a2.png)
+
+ 
  Orhun Dabak
